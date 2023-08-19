@@ -1,0 +1,32 @@
+h3 {
+    background-color: rgb(227,243,255);
+    padding: 10px;
+    margin: 0px 200px;
+    border: 8px solid white;
+    width: 350px;
+}
+.container-1 {
+    background-color: rgb(227,243,255);
+    padding: 10px;
+    margin: 0px 200px;
+    border: 8px solid white;
+    width: 350px;
+}
+.container-2 {
+    background-color: rgb(227, 243, 255);
+    padding: 10px;
+    margin: 0px 200px;  
+    border: 8px solid white;
+    width: 350px;
+}
+.second {
+    background-color: white;
+    padding: 10px;
+    margin: 0px 100px;
+}
+p {
+    text-align: center;
+}
+body {
+    background-color: rgb(226, 226, 226);
+}

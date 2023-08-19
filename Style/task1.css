@@ -1,0 +1,15 @@
+li{
+    list-style-type: none;
+    background-color: orange;
+    width: 100px;
+    height: 20px;
+    color: white;
+}
+ul{
+    background-color: white;
+}
+li{
+    padding: 3px;
+    margin: 3px;
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.box-1 {
+    background-color:rgb(255,145,76) ;
+    padding: 60px;
+    margin: 20px 40px 60px 40px;
+}
+body {
+    border: 20px solid grey;
+    border-radius: 15px;
+    margin: 20px;
+}
+.box-2 {
+    border: 30px solid rgb(0,74,173);
+    margin: 20px 15px 30px 15px;
+}

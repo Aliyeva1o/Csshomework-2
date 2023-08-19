@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+h2{
+    margin: 5px;
+}
+.step-1{
+    margin: 15px 400px 30px 5px;
+    background-color: rgb(232,150,122);
+    width: 150px;
+}
+.step-2{
+    background-color:rgb(232,150,122) ;
+    padding: 10px;
+    border: 6px solid brown;
+    margin: 30px 300px 40px 30px;
+    width: 200px;
+}
+.step-3 {
+    background-color: rgb(232,150,122);
+    padding: 0px 200px 60px 150px;
+    margin: 40px 10px 10px 80px;
+    border-left: 12px solid black;
+    border-top: 2px solid black;
+    border-right: 6px dashed brown ;
+    border-bottom: 7px double rgb(254,236,64);
+    width: 200px;
+}

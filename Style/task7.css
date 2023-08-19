@@ -1,0 +1,8 @@
+*{
+    margin: 2px;
+}
+.second {
+    background-color: red;
+    border: 3px solid blue;
+    padding: 10px 50px 75px 200px;
+}
